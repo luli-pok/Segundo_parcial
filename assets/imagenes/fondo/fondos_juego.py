@@ -1,0 +1,1 @@
+CIELO_1 = r"assets\imagenes\fondo\cielo_1.png"
